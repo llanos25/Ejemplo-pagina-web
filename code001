@@ -26,11 +26,11 @@
       </section>
       <section id="post3">
         <h2>Post 3</h2>
-        <p>publicación </p>
+        <p>tercera publicación </p>
       </section>
     </main>
     <footer>
-      <p>Copyright &copy; 2022 Mi blog personal</p>
+      <p>Copyright &copy; 2023 Mi blog personal</p>
     </footer>
   </body>
 </html>
